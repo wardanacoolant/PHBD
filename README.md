@@ -2,7 +2,7 @@
 
 This is a repository related to the files needed in joining the 2019 Village Development Grant Program (Program Hibah Bina Desa, PHBD).
 
-## Latar Belakang
+## Background
 
 Actually I don't really remember how it started (wkwk). But clearly, Hendra invited us to join this event. Then we struggled to find members and also supervisor from lecturers (Pak Gede Arta). Then we took our very limited time to prepare the proposal in the middle of piles of college assignments. And that's how we sent the proposal. 
 
